@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    font-family: Inter;
+}
+
+#menusuperior{
+    background-color: #303030;
+    color: #FFFFFF;
+}
+
+#titulo-menusuperior{
+    margin-left: 62px;
+    padding-top: 206px;
+    font-size: 60px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+#texto-menusuperior{
+    margin-left: 62px;
+    font-weight: 500;
+    padding-bottom: 149px;
+}
+
+#dadoscurso{
+    background-color: #F9F9F9;
+    color: #000000;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.dados{
+    padding-top: 76px;
+    padding-left: 60px;
+    place-self: center;
+    padding-bottom: 50px;
+}
+
+.titulo-dados{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.texto-dados{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#secaofoto{
+    padding-left: 77px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#subsec1{
+    color: #000000;
+    padding-top: 240px;
+}
+
+#subsec2{
+    padding-top: 72px;
+}
+
+.titulo-dados{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.texto-dados{
+    font-weight: 300;
+    font-size: 24px;
+}
